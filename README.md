@@ -1,5 +1,12 @@
 # PROJECT SHRAMIK 
 
+### Video of the project :-  https://drive.google.com/file/d/1u0wkFKe6wzzhcFBoqH2ebJjfCNgZG0xw/view?usp=sharing
+
+### Link for the apps of the project :-   
+https://drive.google.com/file/d/1zRHaFjdAlBJb0XE7c2uZlz0miYtEfbqa/view?usp=sharing
+<br/>
+https://drive.google.com/file/d/1kT2uCyS9-FLEBTpoA7zYaQa9PHw0jrCm/view?usp=sharing
+
 ## Introduction :-
                   This project is developed by team MegaBit .We have used the Augmented Reality Technology for this project along with the various tools and softwares such as :
 ## Tools :-
